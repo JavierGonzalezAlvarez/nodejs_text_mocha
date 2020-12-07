@@ -6,7 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "test"
+  ],
+  "author": "javier",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
